@@ -11,7 +11,6 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "mhutchie.git-graph",
-    "GitHub.copilot",
     "eamodio.gitlens",
     "oderwat.indent-rainbow",
     "VisualStudioExptTeam.vscodeintellicode",
@@ -20,6 +19,17 @@
     "shardulm94.trailing-spaces",
     "pflannery.vscode-versionlens",
     "Yummygum.city-lights-icon-vsc",
-    "yummygum.city-lights-theme"
+    "yummygum.city-lights-theme",
+    "Box-Of-Hats.bemhelper",
+    "viablelab.bracket-padder",
+    "donjayamanne.githistory",
+    "GitHub.vscode-pull-request-github",
+    "GitHub.github-vscode-theme",
+    "PKief.material-product-icons",
+    "PKief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "kruemelkatze.vscode-dashboard",
+    "stylelint.vscode-stylelint",
+    "TabNine.tabnine-vscode"
   ]
 }

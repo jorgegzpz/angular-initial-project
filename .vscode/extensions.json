@@ -18,5 +18,21 @@
     "syler.sass-indented",
     "shardulm94.trailing-spaces",
     "pflannery.vscode-versionlens",
+<<<<<<< HEAD
+=======
+    "Yummygum.city-lights-icon-vsc",
+    "yummygum.city-lights-theme",
+    "Box-Of-Hats.bemhelper",
+    "viablelab.bracket-padder",
+    "donjayamanne.githistory",
+    "GitHub.vscode-pull-request-github",
+    "GitHub.github-vscode-theme",
+    "PKief.material-product-icons",
+    "PKief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "kruemelkatze.vscode-dashboard",
+    "stylelint.vscode-stylelint",
+    "TabNine.tabnine-vscode"
+>>>>>>> f8775d7dcbbdc75ed7dce0c7a0a7a97273d78a62
   ]
 }

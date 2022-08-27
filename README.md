@@ -1,5 +1,7 @@
 # AngularInitialProject
 
+This is a simple Angular project with the main settings to configure at the initialization.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
